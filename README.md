@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HanzalaKhan
-- 👀 I’m interested in design and dynamic websitw and web apps
+- 👀 I’m interested in design and dynamic website and dynamic web apps
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Frontend Projects at this Time
 - 📫 How to reach me hanzalaenterprise760@gmail.com or hanzalacoder061@gmail.com
